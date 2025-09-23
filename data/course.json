@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Entrepreneurship"
+    ],
+    [
+      "Business",
+      "Project Management"
+    ]
+  ],
+  "legacy_uid": "cae1ee39-e483-3a3d-7363-1446b5dedab4",
+  "instructors": {
+    "content": [
+      "d460a9e3-b61d-6666-14c8-1fe0cba90453",
+      "637d9b7f-d216-2888-694d-697ad5c9b5e7",
+      "b62809a7-5f3d-5b1a-b45b-932e3035e3f7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "aac89186-8c06-653e-cc96-bcb25398741c",
+    "website": "2-96-management-in-engineering-fall-2012"
+  },
+  "course_title": "Management in Engineering",
+  "course_description": "This course gives an overview of engineering management and covers topics such as financial principles, management of innovation, technology strategy, and best management practices. The focus of the course is the development of individual skills and team work. This is carried out through an exposure to management tools.\n",
+  "department_numbers": [
+    "2",
+    "6",
+    "10",
+    "16"
+  ],
+  "extra_course_numbers": "2.961,6.930,10.806,16.653",
+  "primary_course_number": "2.96",
+  "course_image_thumbnail": {
+    "content": "4a6bb998-1ea5-3edf-cd67-a1b1ea4bec32",
+    "website": "2-96-management-in-engineering-fall-2012"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "50be1b3c-25eb-443d-8e6e-b90b18ed90b0",
+  "site_short_id": "2.96-fall-2012",
+  "site_url_path": "courses/2-96-management-in-engineering-fall-2012",
+  "title": "Course Metadata"
+}
