@@ -4,6 +4,8 @@ description: This resource contains information regarding presenting business op
 file: /courses/2-96-management-in-engineering-fall-2012/220aba77e88daf6d315e8bc3668a392d_MIT2_96F12_assn02.pdf
 file_size: 101783
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

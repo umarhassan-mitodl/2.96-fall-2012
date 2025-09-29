@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides the schedule of readings by case and lecture topic.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -46,9 +48,9 @@ Business Plan I
 {{< tdopen >}}
 
 
-Hart, Myra M., Michael J. Roberts, et al. "{{% resource_link "d9c88934-169c-4c1d-addb-97ecef05cfa4" "Zipcar: Refining the Business Model" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 803096-PDF-ENG, 2003.
+Hart, Myra M., Michael J. Roberts, et al. "[Zipcar: Refining the Business Model](http://hbr.org/product/zipcar-refining-the-business-model/an/803096-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 803096-PDF-ENG, 2003.
 
-Steenburgh, Thomas, Jill Avery, et al. "{{% resource_link "09dcd76c-e265-4082-8d4e-4c8bc22c99ef" "HubSpot: Inbound Marketing and Web 2.0" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 509049-PDF-ENG, 2009.
+Steenburgh, Thomas, Jill Avery, et al. "[HubSpot: Inbound Marketing and Web 2.0](http://hbr.org/product/hubspot-inbound-marketing-and-web-2-0/an/509049-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 509049-PDF-ENG, 2009.
 
 
 {{< tdclose >}}
@@ -62,7 +64,7 @@ Steenburgh, Thomas, Jill Avery, et al. "{{% resource_link "09dcd76c-e265-4082-8d
 Financial I
 {{< tdclose >}}
 {{< tdopen >}}
-Lynch, Merrill. {{% resource_link "1b4aa282-a14d-432c-80d7-01d51c69228c" "\"Understanding Financial Reports.\" (PDF)" %}} Merrill Lynch, Pierce, Fenner & Smith Inc., Report: L–10–03, 2003.
+Lynch, Merrill. ["Understanding Financial Reports." (PDF)](https://web.sonoma.edu/users/s/stanny/_static/MLunderstandingfinancial.pdf) Merrill Lynch, Pierce, Fenner & Smith Inc., Report: L–10–03, 2003.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +100,7 @@ None
 Sales and Marketing II
 {{< tdclose >}}
 {{< tdopen >}}
-Christensen, Roland C., John W. Rosenblum, et al. "{{% resource_link "07791107-13a8-4bc8-8543-498c7c74a3b0" "Prelude Corporation" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 373052-PDF-ENG, 1972.
+Christensen, Roland C., John W. Rosenblum, et al. "[Prelude Corporation](http://hbr.org/product/prelude-corp/an/373052-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 373052-PDF-ENG, 1972.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +126,7 @@ Intellectual Property and Licensing
 {{< tdopen >}}
 
 
-Lee, Hau L., Steven Plous, et al. "{{% resource_link "a2cb4d94-a9a1-42b4-8bee-ca3429716378" "Hewlett-Packard Company: Network Printer Design for Universality" %}}." Stanford Graduate School of Business Case. Case: GS4, 1996.
+Lee, Hau L., Steven Plous, et al. "[Hewlett-Packard Company: Network Printer Design for Universality](https://gsbapps.stanford.edu/cases/detail1.asp?Document_ID=1311)." Stanford Graduate School of Business Case. Case: GS4, 1996.
 
 
 {{< tdclose >}}

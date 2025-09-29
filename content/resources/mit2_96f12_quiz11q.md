@@ -4,6 +4,8 @@ description: This resourse contains information regarding quiz questions fall 20
 file: /courses/2-96-management-in-engineering-fall-2012/657ad3e77ebd0bff3cea5f6503c59f23_MIT2_96F12_quiz11q.pdf
 file_size: 110829
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource contains information regarding ratio analysis group a
 file: /courses/2-96-management-in-engineering-fall-2012/9f297cf3190922523b39b4edf38ff804_MIT2_96F12_assn06.pdf
 file_size: 73291
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
