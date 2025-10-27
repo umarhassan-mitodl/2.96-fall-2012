@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains quiz questions and solutions for Fall 2012. Quiz
   questions and solutions from Fall 2011 are also provided for review purposes.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

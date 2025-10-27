@@ -5,8 +5,6 @@ description: This resource contains information regarding background calculation
 file: /courses/2-96-management-in-engineering-fall-2012/53dfc69727ef71143832c50bc3c582e0_MIT2_96F12_qs2Q3CF.xlsx
 file_size: 11380
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

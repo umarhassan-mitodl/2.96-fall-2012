@@ -4,8 +4,6 @@ description: This syllabus section provides the course description and informati
   on meeting times, learning objectives, measurable outcomes, guest lectures, readings,
   class participation, assignments, grading, and the schedule of lecture topics and
   key dates for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
